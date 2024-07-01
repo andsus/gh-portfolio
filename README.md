@@ -1,6 +1,6 @@
 # GhPortfolio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.12.
+Host [gh-profile](https://andsus.github.io/gh-portfolio/)
 
 ## Development server
 
